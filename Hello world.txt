@@ -1,2 +1,4 @@
-﻿print("Hello WOrld!");
-print("Здорово буй"):
+﻿print("Hello WOrld!;");
+print("Здорово буй;");
+print("Hello my dear friend;");
+>>>>>>> feature/hello-advansed
